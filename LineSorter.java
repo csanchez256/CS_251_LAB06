@@ -1,3 +1,12 @@
+/*
+ * Author:Christopher Sanchez;
+ * File: LineSorter.java
+ * CS 251 Lab06
+ * This program takes an I/O buffered stream (text file)
+ * and outputs the result in another textfile
+ */
+
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
